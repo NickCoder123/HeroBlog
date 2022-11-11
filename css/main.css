@@ -3,10 +3,16 @@
 * {
     font-family: 'Open Sans', sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+}
 .cursor-pointer {
     cursor: pointer;
 }
 .hero:hover {
     text-decoration: none;
     font-weight: 600;
+}
+.fa-school {
+    position: relative;
 }
